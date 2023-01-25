@@ -40,7 +40,7 @@ digitalWrite(tank_pump,LOW);
 lcd.setCursor(0,1);
 lcd.print(" IRRIGATION PROJECT"    );
 lcd.setCursor(0,2);
-lcd.print("  BY ECE STUDENTS ");
+lcd.print("  BY DEBA PRIYA ");
 lcd.setCursor(0,3);
 lcd.print("      WELCOME       ");
 delay(500);
